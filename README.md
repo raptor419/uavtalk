@@ -37,3 +37,12 @@ The talk will end with a small drone taking a picture of all of us, autonomously
  - Computer Vision basics
  - The IoT concept
  - An eager mind
+
+## MAVLink Snipets
+
+## Dronekit Files
+
+## Prereq Links
+### Dronekit Guide
+http://python.dronekit.io/
+
