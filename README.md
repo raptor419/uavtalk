@@ -1,6 +1,7 @@
 # Making UAVs autonomous and Internet of Drones
-# uavtalk
-# Description
+## uavtalk
+----------
+## Description
 
 They might not be delivering our mail ([or Pizzas][1]) yet, but drones are now intelligent, simple, and reliable enough that they cannot be considered as just toys but formidable business tools.
 
