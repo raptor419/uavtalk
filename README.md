@@ -1,6 +1,8 @@
-# Making UAVs autonomous and Internet of Drones
 ## uavtalk
 ----------
+
+# Making UAVs autonomous and Internet of Drones
+
 ## Description
 
 They might not be delivering our mail ([or Pizzas][1]) yet, but drones are now intelligent, simple, and reliable enough that they cannot be considered as just toys but formidable business tools.
@@ -29,3 +31,9 @@ The talk will end with a small drone taking a picture of all of us, autonomously
   [7]: http://scaircrow.com/
   [8]: https://www.dronedeploy.com/
   [9]: https://www.flirtey.com/
+  
+## Prerequisites
+ - Python Programming, the concept of APIs and libraries
+ - Computer Vision basics
+ - The IoT concept
+ - An eager mind
